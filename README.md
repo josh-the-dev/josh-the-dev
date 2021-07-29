@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Joshua Grant, aka @josh-the-dev
-- 👀 My primary interest is solving problems through code!
-  - My strongest passion lies in Frontend Development. Nothing brings me more pride than creating top quality & memorable experiences for people.
-  - I also love adding and enhancing my skills both within the workplace and as a hobby.
+### 👋 Hi, I’m Joshua Grant, aka @josh-the-dev
+
+I'm a Software Engineer with a passion for creating **High Quality** & **Memorable** experiences for people.
+
 - In terms of both learning and my current skillset, here are a few of the languages:
     - React
     - Redux
