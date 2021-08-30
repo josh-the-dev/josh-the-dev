@@ -7,10 +7,8 @@ I'm a Software Engineer with a passion for creating **High Quality** & **Memorab
     - Redux
     - Node.JS
     - Next.JS
-    - Python
-    - Django
-    - SQL
     - C#
+    - SQL
   
 - 📫 How to reach me : 
   - grantjoshua1995@gmail.com
