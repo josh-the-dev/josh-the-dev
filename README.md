@@ -2,7 +2,7 @@
 
 I'm a Software Engineer with a passion for creating **High Quality** & **Memorable** experiences for people.
 
-- In terms of both learning and my current skillset, here are a few of the languages:
+- Here's languages I'm actively building and learning with:
     - React
     - Redux
     - Node.JS
