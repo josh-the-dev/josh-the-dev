@@ -1,13 +1,14 @@
 ### 👋 Hi, I’m Joshua Grant, aka @josh-the-dev
 
-I'm a Software Engineer with a passion for creating **High Quality** & **Memorable** experiences for people.
+I'm a Senior Software Engineer with a passion for creating **High Quality** & **Memorable** experiences for people.
 
 - Here's languages I'm actively building and learning with:
     - React
-    - Redux
-    - Node.JS
     - Next.JS
+    - Node.JS
+    - Express
     - C#
+    - Golang
     - SQL
   
 - 📫 How to reach me : 
